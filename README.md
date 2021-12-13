@@ -1,4 +1,4 @@
-### Hi there 👋
+### 하위하위 👋
 
 <!--
 **sinyo2-ssu/sinyo2-ssu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
