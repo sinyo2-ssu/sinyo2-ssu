@@ -20,4 +20,4 @@ href="https://raw.githubusercontent.com/spring-projects/spring-framework/main/sr
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="max-width: 100%;"></a></code></p>
 
 
-![sinyo2-ssu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinyo2-ssu&show_icons=true&theme=dark)
+<!-- ![sinyo2-ssu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinyo2-ssu&show_icons=true&theme=dark) -->
